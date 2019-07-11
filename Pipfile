@@ -6,7 +6,6 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pillow = "*"
 scipy = "==1.0.0"
 scikit-learn = "*"
 tqdm = "*"
@@ -17,9 +16,8 @@ imageio = "*"
 noise = "*"
 matplotlib = "*"
 imutils = "*"
-pyyaml = "*"
 joblib = "*"
-torch = "*"
+torch = "==0.4.1"
 torchvision = "*"
 addict = "*"
 click = "*"
@@ -27,6 +25,12 @@ dominate = "*"
 dill = "*"
 scikit-image = "*"
 requests = "*"
+Pillow = "*"
+PyYAML = "*"
+pydensecrf = "*"
 
 [requires]
 python_version = "3.6"
+
+[pipenv]
+allow_prereleases = true

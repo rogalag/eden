@@ -19,3 +19,4 @@ dominate
 dill
 scikit-image
 requests
+pydensecrf
