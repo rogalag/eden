@@ -1,0 +1,15 @@
+[submodule "external/densecap-tensorflow"]
+	path = external/densecap-tensorflow
+	url = https://github.com/genekogan/densecap-tensorflow
+[submodule "external/neural-style"]
+	path = external/neural-style
+	url = https://github.com/jcjohnson/neural-style
+[submodule "external/SPADE"]
+	path = external/SPADE
+	url = https://github.com/genekogan/SPADE
+[submodule "external/stylegan"]
+	path = external/stylegan
+	url = https://github.com/genekogan/stylegan
+[submodule "external/deeplab-pytorch"]
+	path = external/deeplab-pytorch
+	url = https://github.com/genekogan/deeplab-pytorch
