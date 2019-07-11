@@ -1,0 +1,32 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pillow = "*"
+scipy = "==1.0.0"
+scikit-learn = "*"
+tqdm = "*"
+opencv-python = "*"
+tensorflow-gpu = "==1.14.0"
+jupyterlab = "*"
+imageio = "*"
+noise = "*"
+matplotlib = "*"
+imutils = "*"
+pyyaml = "*"
+joblib = "*"
+torch = "*"
+torchvision = "*"
+addict = "*"
+click = "*"
+dominate = "*"
+dill = "*"
+scikit-image = "*"
+requests = "*"
+
+[requires]
+python_version = "3.6"
