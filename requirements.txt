@@ -1,4 +1,4 @@
-pillow
+Pillow
 scipy==1.0.0
 scikit-learn
 tqdm
@@ -20,3 +20,8 @@ dill
 scikit-image
 requests
 pydensecrf
+requests
+tqdm
+numpyi
+imutils
+
