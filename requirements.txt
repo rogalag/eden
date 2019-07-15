@@ -1,7 +1,8 @@
 Pillow
 scipy==1.0.0
 scikit-learn
-tqdm
+scikit-image
+numpy
 opencv-python
 tensorflow-gpu==1.14.0
 jupyterlab
@@ -17,11 +18,6 @@ addict
 click
 dominate
 dill
-scikit-image
 requests
 pydensecrf
-requests
 tqdm
-numpyi
-imutils
-
