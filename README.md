@@ -23,7 +23,7 @@ Eden contains:
 
 ### Setup
 
-To install this library, command your terminal the following:
+To install, command your terminal the following:
 
     git clone --recurse-submodules https://github.com/abraham-ai/eden
     cd eden
@@ -37,8 +37,8 @@ Many of the dependencies require additional files (mostly pre-trained models) to
 
     python setup_external_libs.py
     
-The code is currently provided as-is. In the future, it should be turned into a [python package](https://pypi.org/).
+At this moment, Eden is unstable and scarcely documented. Development is underway. The code is currently provided as-is. In the future, it should be turned into a [python package](https://pypi.org/).
     
 ### Examples
 
-A set of work-in-progress examples are found inside the `examples` directory, packaged as Jupyter notebooks. In the future, it may make sense to divide these into "templates" (minimal examples that demonstrate how to use core features)
+A set of work-in-progress examples are found inside the `examples` directory, packaged as Jupyter notebooks. In the future, it may make sense to divide these into "templates" (minimal examples that demonstrate how to use core features). Examples will be receiving more comments and documentation as well.
